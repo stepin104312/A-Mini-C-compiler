@@ -9,5 +9,9 @@ Compilation Steps :
 	
   $ gcc y.tab.c -ll -ly 
 	
-  $ output [filename]
+  $ output [test file]
+
+
+
+
 ![CI](https://github.com/stepin104312/A-Mini-C-compiler/workflows/CI/badge.svg)
